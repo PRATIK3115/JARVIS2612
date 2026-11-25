@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JARVIS2612
+- 👋 Hi, I’m @PRATIK PATEL
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning CSE-AI 
+- 🌱 I Parsevied my graduation in M-Tech CSE-AI 
 - ✨ I know JAVA language
 - 💞️ I’m looking to collaborate on SOFTWARES 
 
